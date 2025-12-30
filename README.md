@@ -14,15 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/somit17/DSA_Python/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/somit17/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_Python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/somit17/DSA_Python/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

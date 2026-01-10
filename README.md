@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

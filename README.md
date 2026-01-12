@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/somit17/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_Python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
 ## Bit Manipulation
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

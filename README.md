@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

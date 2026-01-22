@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
 ## Bit Manipulation
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |

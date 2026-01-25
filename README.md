@@ -110,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/somit17/DSA_Python/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

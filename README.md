@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/somit17/DSA_Python/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/somit17/DSA_Python/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/somit17/DSA_Python/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |

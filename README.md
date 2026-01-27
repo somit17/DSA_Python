@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/somit17/DSA_Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/somit17/DSA_Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

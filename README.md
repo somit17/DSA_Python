@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/somit17/DSA_Python/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
 ## Interactive

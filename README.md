@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
@@ -145,5 +146,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somit17/DSA_Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_Python/tree/master/0094-binary-tree-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

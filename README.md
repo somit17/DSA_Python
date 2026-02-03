@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/somit17/DSA_Python/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/somit17/DSA_Python/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

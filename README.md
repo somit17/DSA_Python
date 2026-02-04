@@ -167,14 +167,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/somit17/DSA_Python/tree/master/0219-contains-duplicate-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/somit17/DSA_Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->

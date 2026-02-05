@@ -18,5 +18,20 @@ class Solution:
             dfs(root.left)
             dfs(root.right)
 
-        dfs(root)
+        #dfs(root)
+
+        #Using BFS
+        if not root:
+            return result
+
+        stack =[root]
+        while stack:
+            node = stack.pop()
+            result.append(node.val)
+            # Push right first so left is processed first (LIFO)
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
+        
         return result

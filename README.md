@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somit17/DSA_Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somit17/DSA_Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somit17/DSA_Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
 ## Monotonic Stack
 |  |
 | ------- |

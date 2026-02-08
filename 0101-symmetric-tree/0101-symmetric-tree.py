@@ -9,7 +9,8 @@ from collections import deque
 from collections import defaultdict
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-
+        if not root:
+            return True
         #Using BFS approach
         def bfs_approach(root: Optional[TreeNode]) -> bool:
             if not root:
@@ -31,6 +32,16 @@ class Solution:
                 if level_values != level_values[::-1]:
                     return False
             return True
-        return bfs_approach(root)
+        #Using DFS approach we will pass subtree only
+        def dfs_approach(left: Optional[TreeNode],right:Optional[TreeNode]) -> bool:
+            if not left and not right:
+                return True
+            if not left or not right:
+                return False
+            
+            return left.val==right.val and dfs_approach(left.left,right.right) and dfs_approach(left.right,right.left)
+        
+        #return bfs_approach(root)
+        return dfs_approach(root.left,root.right)
 
         

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/somit17/DSA_Python/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_Python/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/somit17/DSA_Python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/somit17/DSA_Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/somit17/DSA_Python/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_Python/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/somit17/DSA_Python/tree/master/0572-subtree-of-another-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

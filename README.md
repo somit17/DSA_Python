@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |

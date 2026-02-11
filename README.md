@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/somit17/DSA_Python/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |

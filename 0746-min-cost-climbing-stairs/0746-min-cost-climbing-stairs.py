@@ -27,5 +27,5 @@ class Solution:
             memo[n] = result
             return result
         n = len(cost)
-        return min(top_down(n-1),top_down(n-2))
-        #return bottom_up(cost)
+        #return min(top_down(n-1),top_down(n-2))
+        return bottom_up(cost)

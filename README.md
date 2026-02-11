@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/somit17/DSA_Python/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/somit17/DSA_Python/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
 | [2109-adding-spaces-to-a-string](https://github.com/somit17/DSA_Python/tree/master/2109-adding-spaces-to-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/somit17/DSA_Python/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/somit17/DSA_Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/somit17/DSA_Python/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/somit17/DSA_Python/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |

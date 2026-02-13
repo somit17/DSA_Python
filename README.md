@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/somit17/DSA_Python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/somit17/DSA_Python/tree/master/1137-n-th-tribonacci-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/somit17/DSA_Python/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |

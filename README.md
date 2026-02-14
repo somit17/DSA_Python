@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/somit17/DSA_Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/somit17/DSA_Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/somit17/DSA_Python/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/somit17/DSA_Python/tree/master/0374-guess-number-higher-or-lower) |

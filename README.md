@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/somit17/DSA_Python/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/somit17/DSA_Python/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |

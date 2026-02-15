@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/somit17/DSA_Python/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/somit17/DSA_Python/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/somit17/DSA_Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/somit17/DSA_Python/tree/master/1137-n-th-tribonacci-number) |

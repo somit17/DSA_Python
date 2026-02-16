@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/somit17/DSA_Python/tree/master/1929-concatenation-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/somit17/DSA_Python/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/somit17/DSA_Python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/somit17/DSA_Python/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_Python/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/somit17/DSA_Python/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/somit17/DSA_Python/tree/master/0338-counting-bits) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/somit17/DSA_Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/somit17/DSA_Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |

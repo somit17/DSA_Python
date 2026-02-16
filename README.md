@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/somit17/DSA_Python/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/somit17/DSA_Python/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/somit17/DSA_Python/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 ## Counting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/somit17/DSA_Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/somit17/DSA_Python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/somit17/DSA_Python/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/somit17/DSA_Python/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/somit17/DSA_Python/tree/master/1137-n-th-tribonacci-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/somit17/DSA_Python/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/somit17/DSA_Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/somit17/DSA_Python/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |

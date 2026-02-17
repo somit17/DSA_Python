@@ -1,25 +1,23 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         if len(s)!= len(t):
-            return True
-        
-        map_s,map_t={},{}
+            return False
+        #s <--> t
+
+        my_dict = {}
+        used_values = set()
 
         for i in range(len(s)):
-            ch_s=s[i]
-            ch_t=t[i]
-            #s -> t mapping
-            if ch_s in map_s:
-                if map_s[ch_s] != ch_t:
+            key = s[i]
+            value = t[i]
+            #Step 1
+            if key in my_dict:
+                if my_dict[key]!= value:
                     return False
             else:
-                map_s[ch_s] = ch_t
-
-            # t -> s mapping
-            if ch_t in map_t:
-                if map_t[ch_t] != ch_s:
+                if value in used_values:
                     return False
-            else:
-                map_t[ch_t] = ch_s
+                my_dict[key] = value
+                used_values.add(value)
 
         return True

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/somit17/DSA_Python/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/somit17/DSA_Python/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/somit17/DSA_Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/somit17/DSA_Python/tree/master/0219-contains-duplicate-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/somit17/DSA_Python/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/somit17/DSA_Python/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/somit17/DSA_Python/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |

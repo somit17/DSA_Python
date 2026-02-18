@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/somit17/DSA_Python/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/somit17/DSA_Python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/somit17/DSA_Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/somit17/DSA_Python/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/somit17/DSA_Python/tree/master/2678-number-of-senior-citizens) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/somit17/DSA_Python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/somit17/DSA_Python/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/somit17/DSA_Python/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |

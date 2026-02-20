@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/somit17/DSA_Python/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/somit17/DSA_Python/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/somit17/DSA_Python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somit17/DSA_Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_Python/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/somit17/DSA_Python/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somit17/DSA_Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -289,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/somit17/DSA_Python/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_Python/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/somit17/DSA_Python/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 ## Memoization
 |  |
 | ------- |

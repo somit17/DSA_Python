@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/somit17/DSA_Python/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/somit17/DSA_Python/tree/master/0746-min-cost-climbing-stairs) |
+| [0929-unique-email-addresses](https://github.com/somit17/DSA_Python/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/somit17/DSA_Python/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/somit17/DSA_Python/tree/master/0705-design-hashset) |
+| [0929-unique-email-addresses](https://github.com/somit17/DSA_Python/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/somit17/DSA_Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/somit17/DSA_Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somit17/DSA_Python/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
+| [0929-unique-email-addresses](https://github.com/somit17/DSA_Python/tree/master/0929-unique-email-addresses) |
 | [1143-longest-common-subsequence](https://github.com/somit17/DSA_Python/tree/master/1143-longest-common-subsequence) |
 | [1598-crawler-log-folder](https://github.com/somit17/DSA_Python/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |

@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/somit17/DSA_Python/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_Python/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/somit17/DSA_Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

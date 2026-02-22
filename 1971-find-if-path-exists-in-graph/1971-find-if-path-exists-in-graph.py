@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import defaultdict,deque
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         #Handling edge case
@@ -27,8 +27,23 @@ class Solution:
 
             return False
 
+        #BFS
+        def bfs_approach(graph,src,dest) -> bool:
+            queue = deque([src])
+            visited = set()
+            while queue:
+                current = queue.popleft()
+                if current == dest:
+                    return True
+                
+                if current not in visited:
+                    visited.add(current)
+                    for neighbor in graph[current]:
+                        queue.append(neighbor)
 
-        return dfs_iterative(graph,source,destination)
+            return False
+
+        return bfs_approach(graph,source,destination)
 
     
 

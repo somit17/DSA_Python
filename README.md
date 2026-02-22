@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/somit17/DSA_Python/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/somit17/DSA_Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/somit17/DSA_Python/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
 |  |
 | ------- |
@@ -317,8 +319,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/somit17/DSA_Python/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/somit17/DSA_Python/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

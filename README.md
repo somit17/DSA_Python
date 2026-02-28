@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/somit17/DSA_Python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/somit17/DSA_Python/tree/master/0300-longest-increasing-subsequence) |
+| [0455-assign-cookies](https://github.com/somit17/DSA_Python/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/somit17/DSA_Python/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/somit17/DSA_Python/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/somit17/DSA_Python/tree/master/0682-baseball-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/somit17/DSA_Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_Python/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_Python/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/somit17/DSA_Python/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/somit17/DSA_Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/somit17/DSA_Python/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_Python/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/somit17/DSA_Python/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/somit17/DSA_Python/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/somit17/DSA_Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/somit17/DSA_Python/tree/master/1768-merge-strings-alternately) |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/somit17/DSA_Python/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/somit17/DSA_Python/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/somit17/DSA_Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/somit17/DSA_Python/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/somit17/DSA_Python/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/somit17/DSA_Python/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/somit17/DSA_Python/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/somit17/DSA_Python/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/somit17/DSA_Python/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/somit17/DSA_Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/somit17/DSA_Python/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/somit17/DSA_Python/tree/master/0938-range-sum-of-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -368,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somit17/DSA_Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/somit17/DSA_Python/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/somit17/DSA_Python/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->

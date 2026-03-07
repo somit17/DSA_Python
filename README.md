@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/somit17/DSA_Python/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/somit17/DSA_Python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/somit17/DSA_Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/somit17/DSA_Python/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/somit17/DSA_Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/somit17/DSA_Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/somit17/DSA_Python/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/somit17/DSA_Python/tree/master/0058-length-of-last-word) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/somit17/DSA_Python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/somit17/DSA_Python/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/somit17/DSA_Python/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/somit17/DSA_Python/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/somit17/DSA_Python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/somit17/DSA_Python/tree/master/0069-sqrtx) |
